@@ -1,3 +1,10 @@
-<h1 align="center">Gustavo Herculano</h1>
+<div align="center">
 
-<p align="center">Estudante de Ciência da Computação</p>
+# Gustavo Herculano
+
+### Estudante de Ciência da Computação
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/gustavo-h-carvalho-424989431/)
+[![Email](https://shields.io)](herculanocarvalhogustavo@gmail.com)
+
+</div>
